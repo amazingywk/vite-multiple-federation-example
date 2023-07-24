@@ -1,0 +1,19 @@
+{
+  "name": "vite-multiple-federation-example",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@amazingywk/vite-plugin-federation": "^1.0.0",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "terser": "5.19.0",
+    "typescript": "^5.0.2",
+    "vite": "4.4.0"
+  }
+}
