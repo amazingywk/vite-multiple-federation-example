@@ -7,4 +7,4 @@ then npm run build
 
 then npm run dev
 
-open http://localhost:4000
+then open http://localhost:4000
